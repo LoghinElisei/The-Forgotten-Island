@@ -63,6 +63,9 @@ The project uses **two databases**:
 - **Save & Load progress:** user can choose between cloud or local database  
 - **Pause menu:** accessible via `Esc` key  
 
+## Collaborators
+- Loghin Elisei 
+- Hutanu Laurentiu
 
 ## ⚠️ Warning 
 - For better user experience use Linux to play this game
