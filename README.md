@@ -62,3 +62,7 @@ The project uses **two databases**:
 - **Authentication:** Sign-up / Log-in with exception handling  
 - **Save & Load progress:** user can choose between cloud or local database  
 - **Pause menu:** accessible via `Esc` key  
+
+
+## ⚠️ Warning 
+- For better user experience use Linux to play this game
