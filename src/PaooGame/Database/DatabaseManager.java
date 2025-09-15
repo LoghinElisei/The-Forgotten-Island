@@ -17,7 +17,7 @@ public class DatabaseManager {
 
         url = "jdbc:oracle:thin:@adbj_high?TNS_ADMIN=res/database/Wallet";
         user = "admin";
-        password="Abcdefg123**";
+        password="???";
         sqliteUrl = "jdbc:sqlite:res/database/localDatabase.db";
     }
 
