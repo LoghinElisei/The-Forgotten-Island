@@ -1,7 +1,7 @@
 # 🏝️ The Forgotten Island
 
 **Genre:** Survival & Adventure  
-**Technology:** Java (Swing, JDBC, Threading, Design Patterns)  
+**Technology:** Java , JDBC
 
 ---
 
@@ -19,10 +19,12 @@ The player must progress through **3 levels** (forest, volcano, swamp), avoid en
 - **Scoring system:**  
 
 - **Controls:**  
-- ⬆️ Up – Arrow Up  
-- ⬇️ Down – Arrow Down  
-- ⬅️ Left – Arrow Left  
-- ➡️ Right – Arrow Right  
+- ⬆️ Up – W  
+- ⬇️ Down – S 
+- ⬅️ Left – A  
+- ➡️ Right – D
+
+- Debug mode - T
 
 ### Enemies
 - **Orc** – moves randomly, speed = 8.  
